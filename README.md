@@ -11,12 +11,12 @@
 # Utilizando a aplicação
   Basta entra na pasta financial_umbrella e executar os seguintes comandos:
   
-  `mix deps.get`
-  `iex -S mix`
+    * `mix deps.get`
+    * `iex -S mix`
   
   Depois abra uma terminal e podes se conectar por telnet
   
-  `telnet 127.0.0.1 4040`
+    * `telnet 127.0.0.1 4040`
   
 
  
