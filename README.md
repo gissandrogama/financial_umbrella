@@ -18,5 +18,6 @@
   
   * `telnet 127.0.0.1 4040`
   
+  Só que não foram implatadas todas funcionalidades do server.
 
  
